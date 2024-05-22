@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-savequeues"
+description = "Add a button to the menu to save and load the running queue and the pending queues.\nThis is intended to be used when you want to exit ComfyUI with queues still remaining."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/pkpkTech/ComfyUI-SaveQueues"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-SaveQueues"
+Icon = ""
